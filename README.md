@@ -28,8 +28,7 @@ http://127.0.0.1/dashboard/Experiment-platform
 
 
 ***
-
-License
+## License
 
 [Apache License 2.0](https://github.com/vdfjq369/Experiment-platform/blob/master/LICENSE)
 
