@@ -6,7 +6,7 @@ function generate_url($shortest_path)
 
 	global $google_data;
 	$intersection_num = count($shortest_path);
-	$direction_API = "https://maps.googleapis.com/maps/api/directions/xml?key=AIzaSyB4-PhMRVv1s5r-FmqBBgMB5qsFLj5gppU";
+	$direction_API = "https://maps.googleapis.com/maps/api/directions/xml?key=YOURKEY";
 	$orgination = $shortest_path[0]['Y'].",".$shortest_path[0]['X'];
 	$destination = $shortest_path[$intersection_num-1]['Y'].",".$shortest_path[$intersection_num-1]['X'];
 	$intersec = "";
