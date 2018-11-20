@@ -1,7 +1,6 @@
 # Traffic Prediction Experiment Platform
 
-National Tsing Hua University
-[Wireless and Mobile Networking Labortary](http://wmnet.cs.nthu.edu.tw/index.html)
+[Wireless and Mobile Networking Laboratary, National Tsing Hua University](http://wmnet.cs.nthu.edu.tw/index.html)
 ***
 
 Code for data-centric traffic prediction experiment platform used in the following paper:
