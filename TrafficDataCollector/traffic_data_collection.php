@@ -10,7 +10,7 @@ $file = "http://data.taipei/opendata/datalist/apiAccess?scope=resourceAquire&rid
 
 $DB_HOST	= "localhost";
 $DB_LOGIN	= "root";
-$DB_PASSWORD= "eve1019";
+$DB_PASSWORD= "";
 $DB_NAME	= "transportation";	
  
 while(file_get_contents("gate.cfg")=="Y"){
