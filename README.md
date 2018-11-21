@@ -36,6 +36,8 @@ CREATE TABLE `date_to_day` (
   `holiday` tinyint(1) NOT NULL,
   PRIMARY KEY (`date`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+```
+
 ## Getting started
 1. Open the XAMPP
 2. Start Apache and MySQL
