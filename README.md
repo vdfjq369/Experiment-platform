@@ -18,7 +18,7 @@ Download files to the following path
 /Applications/XAMPP/htdocs/
 ```
 
-## Traffic information base setup
+## Traffic information base configuration
 ```mysql
 CREATE DATABASE transportation;
 
